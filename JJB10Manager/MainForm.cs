@@ -107,7 +107,7 @@ namespace JJB10Manager
         private void ReceiveMessage(object clientSocket)
         {
             Socket myClientSocket = (Socket)clientSocket;
-
+            myClientSocket.ReceiveTimeout = 120000;
             IPEndPoint clientipe = (IPEndPoint)myClientSocket.RemoteEndPoint;
             string ip = clientipe.Address.ToString();
             string mac = getRemoteMac(ip);
