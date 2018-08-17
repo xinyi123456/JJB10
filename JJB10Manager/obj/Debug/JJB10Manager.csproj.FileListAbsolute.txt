@@ -1,0 +1,39 @@
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\bin\Debug\JJB10Manager.exe
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\bin\Debug\JJB10Manager.exe.config
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\bin\Debug\JJB10Manager.pdb
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.Frm_EditUser.resources
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.Frm_AddUser.resources
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.Frm_UserManager.resources
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.MainForm.resources
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.Properties.Resources.resources
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.csproj.GenerateResource.Cache
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.exe
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.pdb
+E:\360企业云盘\项目\瓦检\源码\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.csprojResolveAssemblyReference.cache
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\bin\Debug\JJB10Manager.exe.config
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.exe
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.pdb
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\bin\Debug\JJB10Manager.exe
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\bin\Debug\JJB10Manager.pdb
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.csprojResolveAssemblyReference.cache
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.Frm_EditUser.resources
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.Frm_AddUser.resources
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.Frm_UserManager.resources
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.MainForm.resources
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.Properties.Resources.resources
+C:\Users\zhipxu\Documents\WeChat Files\wxid_w7dw1a7p488i21\Files\JJB10Manager\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.csproj.GenerateResource.Cache
+C:\Users\艾炎帝\Desktop\JJB10Manager\JJB10Manager\bin\Debug\JJB10Manager.exe.config
+C:\Users\艾炎帝\Desktop\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.exe
+C:\Users\艾炎帝\Desktop\JJB10Manager\JJB10Manager\obj\Debug\JJB10Manager.pdb
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\bin\Debug\JJB10Manager.exe.config
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.exe
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.pdb
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\bin\Debug\JJB10Manager.exe
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\bin\Debug\JJB10Manager.pdb
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.csprojResolveAssemblyReference.cache
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.Frm_EditUser.resources
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.Frm_AddUser.resources
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.Frm_UserManager.resources
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.MainForm.resources
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.Properties.Resources.resources
+C:\Users\zhipxu\Documents\Tencent Files\635946477\FileRecv\JJB10Manager(1)\JJB10Manager\obj\Debug\JJB10Manager.csproj.GenerateResource.Cache

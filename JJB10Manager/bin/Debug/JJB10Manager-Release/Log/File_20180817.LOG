@@ -1,0 +1,2 @@
+【runSql1】-标准表达式中数据类型不匹配。|Delete from Data where Timer = '2018-01-02 11:12:13'  2018-08-17 00:22:20
+【runSql1】-标准表达式中数据类型不匹配。|Delete from Data where Timer = '2018-01-02 11:12:13'  2018-08-17 00:23:32

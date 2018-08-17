@@ -1,0 +1,4 @@
+【runSql1】-标准表达式中数据类型不匹配。|Update Users Set MAC = '11-22-33-44-55-67',UserName = '测试1号' where  Id= '0'  2018-08-16 22:06:17
+【runSql1】-标准表达式中数据类型不匹配。|Delete from Users where id = '1'  2018-08-16 22:09:34
+【runSql1】-标准表达式中数据类型不匹配。|Delete from Users where id = '1'  2018-08-16 22:11:47
+【runSql1】-INSERT INTO 语句的语法错误。|Insert into Data(IP,MAC,Place,Timer,RealValue,UpTime) values('','AD.ET.E3.29.00.03','中央变电所一二三四五','2018-1-2 11:12:13','10.23','2018-8-16 13:16:19',)  2018-08-16 23:44:22
